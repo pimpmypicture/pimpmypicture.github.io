@@ -36,13 +36,14 @@ Mes galeries
 - `2019-10-27 Orpierre - Dièdre Sud <./2019-10-27_Orpierre_-_Diedre_Sud/index.html>`_ | `zip (24 photos, 15M) <https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-10-27_Orpierre_-_Diedre_Sud/imgs>`__
 - `2019-11-09 Orpierre <./2019-11-09_Orpierre/index.html>`_ | `zip (4 photos, 2.7M) <https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-11-09_Orpierre/imgs>`__
 - `2019-11-11 Sainte Victoire - Arête des Rois Mages <./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/index.html>`_ | `zip (18 photos, 9.0M) <https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/imgs>`__
+- `2020-06-21 Pic de Laiguille - Face E <./2020-06-21_Pic_de_Laiguille_-_Face_E/index.html>`_ | `zip (19 photos, 11M) <https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-06-21_Pic_de_Laiguille_-_Face_E/imgs>`__
 
-Taille totale: 513M
+Taille totale: 525M
 
 Textes:
 
 
-Mis à jour: Wed 13 Nov 2019 08:07:06 PM CET
+Mis à jour: Sun 21 Jun 2020 09:59:01 PM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
