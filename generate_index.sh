@@ -42,7 +42,7 @@ EOF
         local gal_name="$(cat $gal/gallery_name)"
         size=$(du -hc "$gal"/imgs | tail -n 1 | cut -f 1)
         num_photos=$(ls "$gal"/imgs | wc -l)
-        dl_link="https://minhaskamal.github.io/DownGit/#/home?url=$(cat GIT_URL)/tree/master/$gal/imgs"
+        dl_link="https://downgit.github.io/#/home?url=$(cat GIT_URL)/tree/master/$gal/imgs"
         echo "- \`$gal_name <$gal/index.html>\`_ | \`zip ($num_photos photos, $size) <$dl_link>\`__" >> $index_rst
     done
 
