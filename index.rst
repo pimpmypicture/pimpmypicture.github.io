@@ -37,13 +37,14 @@ Mes galeries
 - `2019-11-09 Orpierre <./2019-11-09_Orpierre/index.html>`_ | `zip (4 photos, 2.7M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-11-09_Orpierre/imgs>`__
 - `2019-11-11 Sainte Victoire - Arête des Rois Mages <./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/index.html>`_ | `zip (18 photos, 9.0M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/imgs>`__
 - `2020-06-21 Pic de Laiguille - Face E <./2020-06-21_Pic_de_Laiguille_-_Face_E/index.html>`_ | `zip (19 photos, 11M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-06-21_Pic_de_Laiguille_-_Face_E/imgs>`__
+- `2020-07-01 Autour du Viso - Traversette, Monte Meidessa, Gastaldi, Arête N pointe Venise <./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/index.html>`_ | `zip (68 photos, 34M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/imgs>`__
 
-Taille totale: 525M
+Taille totale: 560M
 
 Textes:
 
 
-Mis à jour: Tue 30 Jun 2020 12:12:32 PM CEST
+Mis à jour: Mon 06 Jul 2020 11:22:15 AM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
