@@ -38,13 +38,15 @@ Mes galeries
 - `2019-11-11 Sainte Victoire - Arête des Rois Mages <./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/index.html>`_ | `zip (18 photos, 9.0M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2019-11-11_Sainte_Victoire_-_Arete_des_Rois_Mages/imgs>`__
 - `2020-06-21 Pic de Laiguille - Face E <./2020-06-21_Pic_de_Laiguille_-_Face_E/index.html>`_ | `zip (19 photos, 11M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-06-21_Pic_de_Laiguille_-_Face_E/imgs>`__
 - `2020-07-01 Autour du Viso - Traversette, Monte Meidessa, Gastaldi, Arête N pointe Venise <./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/index.html>`_ | `zip (68 photos, 34M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/imgs>`__
+- `2020-07-11 Aiguille Centrale Arves <./2020-07-11_Aiguille_Centrale_Arves/index.html>`_ | `zip (26 photos, 12M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-11_Aiguille_Centrale_Arves/imgs>`__
+- `2020-07-14 Tete de la Maye - Pujolidal <./2020-07-14_Tete_de_la_Maye_-_Pujolidal/index.html>`_ | `zip (12 photos, 8.1M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-14_Tete_de_la_Maye_-_Pujolidal/imgs>`__
 
-Taille totale: 560M
+Taille totale: 582M
 
 Textes:
 
 
-Mis à jour: Mon 06 Jul 2020 11:22:15 AM CEST
+Mis à jour: Wed 15 Jul 2020 07:27:52 AM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
