@@ -40,13 +40,14 @@ Mes galeries
 - `2020-07-01 Autour du Viso - Traversette, Monte Meidessa, Gastaldi, Arête N pointe Venise <./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/index.html>`_ | `zip (68 photos, 34M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-01_Autour_du_Viso_-_Traversette,_Monte_Meidessa,_Gastaldi,_Arete_N_pointe_Venise/imgs>`__
 - `2020-07-11 Aiguille Centrale Arves <./2020-07-11_Aiguille_Centrale_Arves/index.html>`_ | `zip (26 photos, 12M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-11_Aiguille_Centrale_Arves/imgs>`__
 - `2020-07-14 Tete de la Maye - Pujolidal <./2020-07-14_Tete_de_la_Maye_-_Pujolidal/index.html>`_ | `zip (12 photos, 8.1M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-14_Tete_de_la_Maye_-_Pujolidal/imgs>`__
+- `2020-07-19 Rateau Arête NE et Arête S <./2020-07-19_Rateau_Arete_NE_et_Arete_S/index.html>`_ | `zip (54 photos, 20M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-19_Rateau_Arete_NE_et_Arete_S/imgs>`__
 
-Taille totale: 582M
+Taille totale: 603M
 
 Textes:
 
 
-Mis à jour: Wed 15 Jul 2020 07:27:52 AM CEST
+Mis à jour: Mon 20 Jul 2020 11:28:43 AM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
