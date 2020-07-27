@@ -41,13 +41,14 @@ Mes galeries
 - `2020-07-11 Aiguille Centrale Arves <./2020-07-11_Aiguille_Centrale_Arves/index.html>`_ | `zip (26 photos, 12M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-11_Aiguille_Centrale_Arves/imgs>`__
 - `2020-07-14 Tete de la Maye - Pujolidal <./2020-07-14_Tete_de_la_Maye_-_Pujolidal/index.html>`_ | `zip (12 photos, 8.1M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-14_Tete_de_la_Maye_-_Pujolidal/imgs>`__
 - `2020-07-19 Rateau Arête NE et Arête S <./2020-07-19_Rateau_Arete_NE_et_Arete_S/index.html>`_ | `zip (54 photos, 20M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-19_Rateau_Arete_NE_et_Arete_S/imgs>`__
+- `2020-07-26 Traversée Soreiller Occidentale - Centrale <./2020-07-26_Traversee_Soreiller_Occidentale_-_Centrale/index.html>`_ | `zip (30 photos, 15M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-26_Traversee_Soreiller_Occidentale_-_Centrale/imgs>`__
 
-Taille totale: 603M
+Taille totale: 619M
 
 Textes:
 
 
-Mis à jour: Mon 20 Jul 2020 11:28:43 AM CEST
+Mis à jour: Mon 27 Jul 2020 07:34:18 AM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
