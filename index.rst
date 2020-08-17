@@ -42,13 +42,20 @@ Mes galeries
 - `2020-07-14 Tete de la Maye - Pujolidal <./2020-07-14_Tete_de_la_Maye_-_Pujolidal/index.html>`_ | `zip (12 photos, 8.1M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-14_Tete_de_la_Maye_-_Pujolidal/imgs>`__
 - `2020-07-19 Rateau Arête NE et Arête S <./2020-07-19_Rateau_Arete_NE_et_Arete_S/index.html>`_ | `zip (54 photos, 20M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-19_Rateau_Arete_NE_et_Arete_S/imgs>`__
 - `2020-07-26 Traversée Soreiller Occidentale - Centrale <./2020-07-26_Traversee_Soreiller_Occidentale_-_Centrale/index.html>`_ | `zip (30 photos, 15M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-07-26_Traversee_Soreiller_Occidentale_-_Centrale/imgs>`__
+- `2020-08-01 Che Guevarou <./2020-08-01_Che_Guevarou/index.html>`_ | `zip (7 photos, 4.6M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-01_Che_Guevarou/imgs>`__
+- `2020-08-01 Voie des quarante <./2020-08-01_Voie_des_quarante/index.html>`_ | `zip (10 photos, 5.1M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-01_Voie_des_quarante/imgs>`__
+- `2020-08-05 Retour en Névachie <./2020-08-05_Retour_en_Nevachie/index.html>`_ | `zip (24 photos, 16M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-05_Retour_en_Nevachie/imgs>`__
+- `2020-08-06 Dessine moi un 4 sup <./2020-08-06_Dessine_moi_un_4_sup/index.html>`_ | `zip (16 photos, 11M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-06_Dessine_moi_un_4_sup/imgs>`__
+- `2020-08-07 Col du Chardonnet <./2020-08-07_Col_du_Chardonnet/index.html>`_ | `zip (13 photos, 5.5M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-07_Col_du_Chardonnet/imgs>`__
+- `2020-08-13 Queyras Pain de sucre <./2020-08-13_Queyras_Pain_de_sucre/index.html>`_ | `zip (14 photos, 5.8M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-13_Queyras_Pain_de_sucre/imgs>`__
+- `2020-08 Viso <./2020-08_Viso/index.html>`_ | `zip (54 photos, 27M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08_Viso/imgs>`__
 
-Taille totale: 619M
+Taille totale: 699M
 
 Textes:
 
 
-Mis à jour: Mon 27 Jul 2020 07:34:18 AM CEST
+Mis à jour: Mon 17 Aug 2020 10:26:35 PM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
