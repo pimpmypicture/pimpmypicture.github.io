@@ -21,8 +21,6 @@ info()
 
 add_gallery()
 {
-    [ $# -ne 3 ] && die "add_gallery: gallery_folder input_folder gallery_name"
-
     local gallery_folder=$1
     shift
     local input_folder=$1
@@ -47,4 +45,5 @@ add_gallery()
     info "gallery at: $gallery_path"
 }
 
+[ $# -eq 2 ] || die "add_gallery: input_folder gallery_name"
 add_gallery "$script_directory" "$@"
