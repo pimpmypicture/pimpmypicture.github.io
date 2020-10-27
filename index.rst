@@ -49,13 +49,14 @@ Mes galeries
 - `2020-08-07 Col du Chardonnet <./2020-08-07_Col_du_Chardonnet/index.html>`_ | `zip (13 photos, 5.5M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-07_Col_du_Chardonnet/imgs>`__
 - `2020-08-13 Queyras Pain de sucre <./2020-08-13_Queyras_Pain_de_sucre/index.html>`_ | `zip (14 photos, 5.8M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08-13_Queyras_Pain_de_sucre/imgs>`__
 - `2020-08 Viso <./2020-08_Viso/index.html>`_ | `zip (54 photos, 27M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-08_Viso/imgs>`__
+- `2020-10 We Calanques - Sur les traces de Gaston - Melody <./2020-10_We_Calanques_-_Sur_les_traces_de_Gaston_-_Melody/index.html>`_ | `zip (96 photos, 52M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2020-10_We_Calanques_-_Sur_les_traces_de_Gaston_-_Melody/imgs>`__
 
-Taille totale: 699M
+Taille totale: 752M
 
 Textes:
 
 
-Mis à jour: Mon 17 Aug 2020 10:26:35 PM CEST
+Mis à jour: Tue 27 Oct 2020 06:19:30 PM CET
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
