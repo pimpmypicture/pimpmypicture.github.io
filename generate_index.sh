@@ -37,7 +37,7 @@ Mes galeries
 
 EOF
     for gal in $(find . -mindepth 1 -maxdepth 1 -type d -not -path '*/\.*'\
-                 | sort -n)
+                 | sort -rn)
     do
         local gal_name="$(cat $gal/gallery_name)"
         size=$(du -hc "$gal"/imgs | tail -n 1 | cut -f 1)
