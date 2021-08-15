@@ -1,6 +1,7 @@
 Mes galeries
 ============
 
+- `2021-08-15 Dents de Coste Counier <./2021-08-15_Dents_de_Coste_Counier/index.html>`_ | `zip (28 photos, 17M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2021-08-15_Dents_de_Coste_Counier/imgs>`__
 - `2021-07-18 Roche de la Muzelle <./2021-07-18_Roche_de_la_Muzelle/index.html>`_ | `zip (37 photos, 16M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2021-07-18_Roche_de_la_Muzelle/imgs>`__
 - `2021-06-12 Puy Gris <./2021-06-12_Puy_Gris/index.html>`_ | `zip (15 photos, 5.6M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2021-06-12_Puy_Gris/imgs>`__
 - `2021-02 Devoluy - traversée Héroïque + Rocher rond <./2021-02_Devoluy_-_traversee_Heroique_+_Rocher_rond/index.html>`_ | `zip (32 photos, 12M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2021-02_Devoluy_-_traversee_Heroique_+_Rocher_rond/imgs>`__
@@ -54,12 +55,12 @@ Mes galeries
 - `2017-10-15 Dalles integrales du charmant som <./2017-10-15_Dalles_integrales_du_charmant_som/index.html>`_ | `zip (10 photos, 4.5M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2017-10-15_Dalles_integrales_du_charmant_som/imgs>`__
 - `2017-10-14 Ecole de coinceurs - Col du Coq <./2017-10-14_Ecole_de_coinceurs_-_Col_du_Coq/index.html>`_ | `zip (15 photos, 11M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2017-10-14_Ecole_de_coinceurs_-_Col_du_Coq/imgs>`__
 
-Taille totale: 788M
+Taille totale: 805M
 
 Textes:
 
 
-Mis à jour: Tue 20 Jul 2021 04:35:45 PM CEST
+Mis à jour: Sun 15 Aug 2021 08:53:11 PM CEST
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
