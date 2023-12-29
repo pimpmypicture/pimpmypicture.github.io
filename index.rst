@@ -1,6 +1,7 @@
 Mes galeries
 ============
 
+- `2023-12-28 Piton des Neiges <./2023-12-28_Piton_des_Neiges/index.html>`_ | `zip (31 photos, 9.9M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2023-12-28_Piton_des_Neiges/imgs>`__
 - `2023-06-17_Moucherolle <./2023-06-17_Moucherolle/index.html>`_ | `zip (24 photos, 12M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2023-06-17_Moucherolle/imgs>`__
 - `2023-06-13_Pas_de_Rocheplane <./2023-06-13_Pas_de_Rocheplane/index.html>`_ | `zip (21 photos, 10M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2023-06-13_Pas_de_Rocheplane/imgs>`__
 - `2022-06 San Francisco and Mill Valley <./2022-06_San_Francisco_and_Mill_Valley/index.html>`_ | `zip (172 photos, 73M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2022-06_San_Francisco_and_Mill_Valley/imgs>`__
@@ -59,12 +60,12 @@ Mes galeries
 - `2017-10-15 Dalles integrales du charmant som <./2017-10-15_Dalles_integrales_du_charmant_som/index.html>`_ | `zip (10 photos, 4.5M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2017-10-15_Dalles_integrales_du_charmant_som/imgs>`__
 - `2017-10-14 Ecole de coinceurs - Col du Coq <./2017-10-14_Ecole_de_coinceurs_-_Col_du_Coq/index.html>`_ | `zip (15 photos, 11M) <https://downgit.github.io/#/home?url=https://github.com/pimpmypicture/pimpmypicture.github.io/tree/master/./2017-10-14_Ecole_de_coinceurs_-_Col_du_Coq/imgs>`__
 
-Taille totale: 918M
+Taille totale: 928M
 
 Textes:
 
 
-Mis à jour: Sat Jun 17 05:09:17 PM CEST 2023
+Mis à jour: Fri Dec 29 09:12:00 AM +04 2023
 
 Git URL: https://github.com/pimpmypicture/pimpmypicture.github.io
 
